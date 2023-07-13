@@ -19,8 +19,7 @@ function Profile({ name, imageId, size, profession, awards, discover }: any) {
           {profession}
         </li>
         <li>
-          <b>Awards: {awards.length} </b>
-          {"(" + awards + ")"}
+          <b>Awards: {awards.length} </b>({awards.join(", ")})
         </li>
         <li>
           <b>Discovered: </b>
