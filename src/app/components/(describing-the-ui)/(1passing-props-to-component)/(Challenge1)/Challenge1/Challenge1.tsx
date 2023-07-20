@@ -30,7 +30,7 @@ function Profile({ name, imageId, size, profession, awards, discover }: any) {
   );
 }
 
-export default function Challenge() {
+export default function Challenge1() {
   return (
     <div>
       <h1>Notable Scientists</h1>

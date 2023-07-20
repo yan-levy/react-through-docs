@@ -2,25 +2,5 @@
     "cSpell.words": [
         "Hedy",
         "Lamarr"
-    ],
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#32e3d2",
-        "activityBar.background": "#32e3d2",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#da57e8",
-        "activityBarBadge.foreground": "#15202b",
-        "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#32e3d2",
-        "statusBar.background": "#1bc7b6",
-        "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#159a8d",
-        "statusBarItem.remoteBackground": "#1bc7b6",
-        "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#1bc7b6",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#1bc7b699",
-        "titleBar.inactiveForeground": "#15202b99"
-    },
-    "peacock.color": "#1bc7b6"
+    ]
 }
